@@ -1,0 +1,5 @@
+		Wirelength			Area	
+Trial	num_shapes	Initial	Final	% change	Best	Final	 % from best	Execution Time(s)
+1	19	   23599	   10163	0.57	    6301	    6612	0.05	3554.2
+2	19	   26253	    9131	0.65	    6301	    6556	0.04	4576.2
+3	19	   21822	    9179	0.58	    6301	    6552	0.04	4067.4
